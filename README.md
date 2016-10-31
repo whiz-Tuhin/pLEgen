@@ -7,3 +7,4 @@ pLEgen achieves this by performing a personality assesment of the user and there
 2. Database has to be made.
 3. Create a proper UI
 4. Facebook login problems  -> Resolve auth error
+5. Checkout Different APIs for prediction for non facebook users
