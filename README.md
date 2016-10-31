@@ -2,3 +2,7 @@ Personalised Life Event Generator (pLEgen) mainly suggests the user about all th
 pLEgen achieves this by performing a personality assesment of the user and thereby clustering and simultaneously recommending events based on the results obtained by the respective personality test.
 
 -----[WORK STILL UNDER PROGRESS]-----
+
+1. Backend calls all working fine
+2. Create a proper UI
+3. Facebook login problems  -> Resolve auth error
