@@ -4,5 +4,6 @@ pLEgen achieves this by performing a personality assesment of the user and there
 -----[WORK STILL UNDER PROGRESS]-----
 
 1. Backend calls all working fine
-2. Create a proper UI
-3. Facebook login problems  -> Resolve auth error
+2. Database has to be made.
+3. Create a proper UI
+4. Facebook login problems  -> Resolve auth error
